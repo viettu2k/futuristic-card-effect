@@ -217,7 +217,6 @@
     font-weight: 400;
   }
  
-  
   .screen > .screen-content > .screen-user > .name:before,
   .screen > .screen-content > .screen-user > .name:after {
     content: "";
